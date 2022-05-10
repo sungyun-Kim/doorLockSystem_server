@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/doorLockSystem_server/static/js/main.d43d5205.chunk.js",
+    "main.js.map": "/doorLockSystem_server/static/js/main.d43d5205.chunk.js.map",
+    "runtime-main.js": "/doorLockSystem_server/static/js/runtime-main.70f33eb5.js",
+    "runtime-main.js.map": "/doorLockSystem_server/static/js/runtime-main.70f33eb5.js.map",
+    "static/js/2.48f2269d.chunk.js": "/doorLockSystem_server/static/js/2.48f2269d.chunk.js",
+    "static/js/2.48f2269d.chunk.js.map": "/doorLockSystem_server/static/js/2.48f2269d.chunk.js.map",
+    "index.html": "/doorLockSystem_server/index.html",
+    "precache-manifest.8ec613831dd6075b8d91201da743021b.js": "/doorLockSystem_server/precache-manifest.8ec613831dd6075b8d91201da743021b.js",
+    "service-worker.js": "/doorLockSystem_server/service-worker.js",
+    "static/js/2.48f2269d.chunk.js.LICENSE.txt": "/doorLockSystem_server/static/js/2.48f2269d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f33eb5.js",
+    "static/js/2.48f2269d.chunk.js",
+    "static/js/main.d43d5205.chunk.js"
+  ]
+}
