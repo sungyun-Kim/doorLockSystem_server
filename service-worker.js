@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doorLockSystem_server/precache-manifest.8ec613831dd6075b8d91201da743021b.js"
+  "/doorLockSystem_server/precache-manifest.f49284c668098d0255071db6e10aa60c.js"
 );
 
 self.addEventListener('message', (event) => {
