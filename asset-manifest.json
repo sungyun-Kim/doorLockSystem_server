@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/doorLockSystem_server/static/js/main.15515b1c.chunk.js",
-    "main.js.map": "/doorLockSystem_server/static/js/main.15515b1c.chunk.js.map",
-    "runtime-main.js": "/doorLockSystem_server/static/js/runtime-main.70f33eb5.js",
-    "runtime-main.js.map": "/doorLockSystem_server/static/js/runtime-main.70f33eb5.js.map",
-    "static/js/2.aef38d03.chunk.js": "/doorLockSystem_server/static/js/2.aef38d03.chunk.js",
-    "static/js/2.aef38d03.chunk.js.map": "/doorLockSystem_server/static/js/2.aef38d03.chunk.js.map",
-    "index.html": "/doorLockSystem_server/index.html",
-    "precache-manifest.f49284c668098d0255071db6e10aa60c.js": "/doorLockSystem_server/precache-manifest.f49284c668098d0255071db6e10aa60c.js",
-    "service-worker.js": "/doorLockSystem_server/service-worker.js",
-    "static/js/2.aef38d03.chunk.js.LICENSE.txt": "/doorLockSystem_server/static/js/2.aef38d03.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.217707e6.chunk.js",
+    "main.js.map": "./static/js/main.217707e6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ed505593.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ed505593.js.map",
+    "static/js/2.48f2269d.chunk.js": "./static/js/2.48f2269d.chunk.js",
+    "static/js/2.48f2269d.chunk.js.map": "./static/js/2.48f2269d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.159fd0ebbd8951adb62161baed3c0a32.js": "./precache-manifest.159fd0ebbd8951adb62161baed3c0a32.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.48f2269d.chunk.js.LICENSE.txt": "./static/js/2.48f2269d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70f33eb5.js",
-    "static/js/2.aef38d03.chunk.js",
-    "static/js/main.15515b1c.chunk.js"
+    "static/js/runtime-main.ed505593.js",
+    "static/js/2.48f2269d.chunk.js",
+    "static/js/main.217707e6.chunk.js"
   ]
 }
